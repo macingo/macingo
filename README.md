@@ -1,12 +1,14 @@
 <!-- [![Header](https://raw.githubusercontent.com/macingo/macingo/main/readme_header.png "Header")](https://macingo.dev/) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/macingo/macingo/main/wave.gif" width="30px">
+# Hi, there! <img src="https://raw.githubusercontent.com/macingo/macingo/main/wave.gif" width="30px">
 
-My name is Macingo and I'm a software developer. I'm from Kun Ming, living in Hong Kong and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Macingo and I'm a software developer. I'm from Kun Ming, living in Hong Kong and currently working at IBM. You can find me on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
+<!-- My name is Macingo and I'm a software developer. I'm from Kun Ming, living in Hong Kong and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [macingo.github.io](https://macingo.github.io) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
+<!-- ## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [macingo.github.io](https://macingo.github.io) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/). -->
 
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
